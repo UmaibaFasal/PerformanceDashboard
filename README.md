@@ -13,9 +13,8 @@
    KPI Cards: Total Revenue and Quantity summarizing key business metrics.
    Profit Gauge: Visualizes profit against target ranges.
    Top 7 Customers Pie Chart: Displays revenue contribution by major customers.
-   Geographical Map: Shows revenue distribution by city, enablin![Uploading PerformanceDashboard.png…]()
-g location-based insights.
+   Geographical Map: Shows revenue distribution by city, enabling location-based insights.
    Bar Charts: Breakdown of total revenue by sales channel and year, and by products and year, with color-coded heat maps for revenue scale.
    Interactive Filters: Dropdowns for Channel Name, Product Name, Customer Name, and a date range slider to customize the view dynamically.
 6. Screenshots
-   
+   PerformanceDashboard.png
