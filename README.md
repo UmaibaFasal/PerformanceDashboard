@@ -17,4 +17,4 @@
    Bar Charts: Breakdown of total revenue by sales channel and year, and by products and year, with color-coded heat maps for revenue scale.
    Interactive Filters: Dropdowns for Channel Name, Product Name, Customer Name, and a date range slider to customize the view dynamically.
 6. Screenshots
-   PerformanceDashboard.png
+  [ PerformanceDashboard.png](https://github.com/UmaibaFasal/PerformanceDashboard/blob/main/PerformanceDashboard.png)
